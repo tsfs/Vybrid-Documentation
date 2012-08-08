@@ -103,10 +103,6 @@ Release Note
 
 
 5. Known Issues/Limitations
-   - Serial Console
-     When large quantities of data are outputted at once, console output gets disordered.
-     However, output recovers once terminal is reconnected.
-
    - SRTC
      Time delay occurs at a rate of one second in 10 seconds or so.
 
